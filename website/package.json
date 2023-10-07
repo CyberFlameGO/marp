@@ -41,7 +41,7 @@
     "hast-util-whitespace": "^2.0.0",
     "node-fetch": "^3.3.0",
     "null-loader": "^4.0.1",
-    "postcss": "^8.4.20",
+    "postcss": "^8.4.31",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-import-url": "^7.2.0",
     "postcss-preset-env": "^7.8.3",
